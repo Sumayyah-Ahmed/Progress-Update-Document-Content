@@ -1,6 +1,10 @@
-# starting a new class under professor Michael's guidance! 
+# starting a new class under Professor Michael's guidance! 
 
 def congratulate(name):
-    print(f"Congratulations for starting a Software Systms Capstone Prjct class, {name}!")
+    print(f"Congratulations for starting a Software Systems Capstone Project class, {name}!")
 
 congratulate('Sumayyah')
+
+
+
+
